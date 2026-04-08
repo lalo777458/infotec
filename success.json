@@ -1,9 +1,4 @@
-{
-  "DatosTramiteTitularRna":
-    [
-      {
-        "id": 1,
-        "nombreTramite": "utorizacion de organizacion y funcionamiento de un organismo agricola",
-      }
-    ]
-}
+summary: An example of a user
+value:
+  id: 123
+  name: "John Doe"

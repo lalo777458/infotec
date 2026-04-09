@@ -1,0 +1,9 @@
+{
+  DatosTramiteTitularRna:
+    [
+      {
+        id: 1,
+        nombreTramite: "utorizacion de organizacion y funcionamiento de un organismo agricola",
+      },
+    ]
+}
